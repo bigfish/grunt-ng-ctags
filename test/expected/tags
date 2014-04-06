@@ -1,0 +1,16 @@
+addTodo	test/fixtures/controllers/todoCtrl.js	/$scope.addTodo/
+allChecked	test/fixtures/controllers/todoCtrl.js	/$scope.allChecked/
+clearCompletedTodos	test/fixtures/controllers/todoCtrl.js	/$scope.clearCompletedTodos/
+completedCount	test/fixtures/controllers/todoCtrl.js	/$scope.completedCount/
+doneEditing	test/fixtures/controllers/todoCtrl.js	/$scope.doneEditing/
+editTodo	test/fixtures/controllers/todoCtrl.js	/$scope.editTodo/
+editedTodo	test/fixtures/controllers/todoCtrl.js	/$scope.editedTodo/
+markAll	test/fixtures/controllers/todoCtrl.js	/$scope.markAll/
+newTodo	test/fixtures/controllers/todoCtrl.js	/$scope.newTodo/
+originalTodo	test/fixtures/controllers/todoCtrl.js	/$scope.originalTodo/
+remainingCount	test/fixtures/controllers/todoCtrl.js	/$scope.remainingCount/
+removeTodo	test/fixtures/controllers/todoCtrl.js	/$scope.removeTodo/
+revertEditing	test/fixtures/controllers/todoCtrl.js	/$scope.revertEditing/
+status	test/fixtures/controllers/todoCtrl.js	/$scope.status/
+statusFilter	test/fixtures/controllers/todoCtrl.js	/$scope.statusFilter/
+todos	test/fixtures/controllers/todoCtrl.js	/$scope.todos/

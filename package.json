@@ -1,0 +1,41 @@
+{
+  "name": "grunt-ng-ctags",
+  "description": "Generate CTags from an Angular.js project",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bigfish/ng-ctags",
+  "author": {
+    "name": "David Wilhelm",
+    "email": "dewilhelm@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigfish/ng-ctags.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigfish/ng-ctags/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bigfish/ng-ctags/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
